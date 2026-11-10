@@ -20,3 +20,15 @@ secrets/
 private/
 credentials/
 
+# Certificados y material criptográfico
+configs/tls/
+configs/hnet/
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Respaldos privados
+5G-backups/
+*.bson
+*.dump
