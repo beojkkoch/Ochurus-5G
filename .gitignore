@@ -1,0 +1,22 @@
+# Secretos y certificados
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+
+# Bases de datos y respaldos privados
+*.bson
+*.dump
+*.db
+5G-backups/
+
+# Logs
+*.log
+
+# Archivos privados
+secrets/
+private/
+credentials/
+
